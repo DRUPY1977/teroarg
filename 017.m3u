@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,26TV
+#EXTINF:-1,26T
 http://181.10.181.101:15001/play/a05x/index.m3u8
 #EXTINF:-1,A&E HD
 http://181.10.181.101:15001/play/a09h/index.m3u8
